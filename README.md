@@ -1,4 +1,4 @@
-### :wrench: Languages & Tools Recently Used:
+### :wrench: Languages, Frameworks, Services & Tools Recently Used:
 <div id="tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
